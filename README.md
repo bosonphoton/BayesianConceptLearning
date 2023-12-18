@@ -1,4 +1,4 @@
-#Bayesian Concept Learning Final Project
+# Bayesian Concept Learning Final Project
 
 Psychopy Version: 2023.2.3
 
