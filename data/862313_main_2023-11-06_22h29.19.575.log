@@ -1,0 +1,59 @@
+5.7425 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+5.7430 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x7faba9e15c10>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x7faba9e15bb0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7faba9e15a00>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7faba9f53760>, multiSample=False, name='window1', numSamples=2, pos=(506, 320), screen=0, size=array([2000, 1364]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+5.7431 	EXP 	window1: mouseVisible = True
+5.7431 	EXP 	window1: backgroundImage = ''
+5.7431 	EXP 	window1: backgroundFit = 'none'
+5.7457 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+5.7457 	EXP 	window1: recordFrameIntervals = False
+5.8259 	EXP 	window1: recordFrameIntervals = True
+6.6593 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+6.6594 	EXP 	window1: mouseVisible = True
+6.9880 	EXP 	main: status = STARTED
+7.0346 	EXP 	window1: mouseVisible = True
+7.0626 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+7.0628 	EXP 	window1: mouseVisible = True
+7.0635 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+0.0079 	EXP 	text: autoDraw = True
+0.5413 	EXP 	Imported train.csv as conditions, 4 conditions, 4 params
+0.5453 	EXP 	Created sequence: random, trialTypes=4, nReps=1, seed=None
+0.5457 	EXP 	New trial (rep=0, index=0): OrderedDict([('Even', 32), ('Ten', 20), ('Odd', 7), ('Negative', -44)])
+0.5969 	DATA 	Keypress: space
+0.5992 	WARNING 	t of last frame was 70.28ms (=1/14)
+0.5992 	EXP 	text: autoDraw = False
+0.5992 	EXP 	text_2: height = 0.05
+0.5992 	EXP 	text_2: height = 0.05
+0.5992 	EXP 	text_2: height = 0.05
+0.5992 	EXP 	text_2: text = 32
+0.5992 	EXP 	text_2: autoDraw = True
+2.5124 	DATA 	Keypress: space
+4.5331 	EXP 	New trial (rep=0, index=1): OrderedDict([('Even', 136), ('Ten', 220), ('Odd', 55), ('Negative', -59)])
+4.5450 	EXP 	text_2: autoDraw = False
+4.5450 	EXP 	text_2: height = 0.05
+4.5450 	EXP 	text_2: height = 0.05
+4.5450 	EXP 	text_2: height = 0.05
+4.5450 	EXP 	text_2: text = 136
+4.5450 	EXP 	text_2: autoDraw = True
+8.5335 	EXP 	New trial (rep=0, index=2): OrderedDict([('Even', 2), ('Ten', 40), ('Odd', 95), ('Negative', -30)])
+8.5457 	EXP 	text_2: autoDraw = False
+8.5457 	EXP 	text_2: height = 0.05
+8.5457 	EXP 	text_2: height = 0.05
+8.5457 	EXP 	text_2: height = 0.05
+8.5457 	EXP 	text_2: text = 2
+8.5457 	EXP 	text_2: autoDraw = True
+12.5325 	EXP 	New trial (rep=0, index=3): OrderedDict([('Even', 12), ('Ten', 60), ('Odd', 39), ('Negative', -845)])
+12.5456 	EXP 	text_2: autoDraw = False
+12.5456 	EXP 	text_2: height = 0.05
+12.5456 	EXP 	text_2: height = 0.05
+12.5456 	EXP 	text_2: height = 0.05
+12.5456 	EXP 	text_2: text = 12
+12.5456 	EXP 	text_2: autoDraw = True
+16.5322 	EXP 	text_2: autoDraw = False
+16.5322 	EXP 	text_2: autoDraw = False
+16.5322 	EXP 	main: status = STOPPED
+16.5617 	EXP 	window1: mouseVisible = True

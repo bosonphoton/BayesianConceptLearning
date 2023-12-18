@@ -1,0 +1,803 @@
+5.6706 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+5.6709 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f7d9b1e9b20>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f7d9b1e9ac0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f7d9b1e9910>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f7d7943f670>, multiSample=False, name='window1', numSamples=2, pos=(506, 320), screen=0, size=array([2000, 1364]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+5.6711 	EXP 	window1: mouseVisible = True
+5.6711 	EXP 	window1: backgroundImage = ''
+5.6711 	EXP 	window1: backgroundFit = 'none'
+5.6726 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+5.6726 	EXP 	window1: recordFrameIntervals = False
+5.7669 	EXP 	window1: recordFrameIntervals = True
+5.7690 	DATA 	Mouse: Left button down, pos=(333,680)
+6.1520 	DATA 	Mouse:  Left button up, pos=(231,729)
+6.6006 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+6.6007 	EXP 	window1: mouseVisible = True
+7.5300 	EXP 	main: status = STARTED
+7.7256 	EXP 	window1: mouseVisible = True
+7.7658 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+7.7659 	EXP 	window1: mouseVisible = True
+7.7669 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+7.7669 	EXP 	window1: mouseVisible = True
+7.7807 	EXP 	Created text_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_4', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+7.9841 	EXP 	window1: mouseVisible = True
+7.9852 	EXP 	Created text_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_5', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+8.3831 	EXP 	window1: mouseVisible = True
+8.3878 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+8.3880 	EXP 	window1: mouseVisible = True
+8.3888 	EXP 	Created text_7 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_7', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+8.3889 	EXP 	window1: mouseVisible = True
+8.3961 	EXP 	Created text_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_4', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+8.5958 	EXP 	window1: mouseVisible = True
+8.5970 	EXP 	Created text_8 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_8', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+8.9938 	EXP 	window1: mouseVisible = True
+8.9986 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+8.9987 	EXP 	window1: mouseVisible = True
+8.9995 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_3', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+8.9996 	EXP 	window1: mouseVisible = True
+9.0062 	EXP 	Created text_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_4', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+9.2101 	EXP 	window1: mouseVisible = True
+9.2112 	EXP 	Created text_9 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_9', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+9.6012 	EXP 	window1: mouseVisible = True
+9.6062 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+9.6064 	EXP 	window1: mouseVisible = True
+9.6073 	EXP 	Created text_10 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_10', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+9.6074 	EXP 	window1: mouseVisible = True
+9.6143 	EXP 	Created text_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_4', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+9.8172 	EXP 	window1: mouseVisible = True
+9.8182 	EXP 	Created text_11 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_11', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+10.2164 	EXP 	window1: mouseVisible = True
+10.2216 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+10.2219 	EXP 	window1: mouseVisible = True
+10.2229 	EXP 	Created text_12 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_12', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+10.2230 	EXP 	window1: mouseVisible = True
+10.2299 	EXP 	Created text_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_4', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+10.4242 	EXP 	window1: mouseVisible = True
+10.4253 	EXP 	Created text_13 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_13', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+10.8154 	EXP 	window1: mouseVisible = True
+10.8207 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+10.8209 	EXP 	window1: mouseVisible = True
+10.8220 	EXP 	Created text_14 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_14', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+10.8221 	EXP 	window1: mouseVisible = True
+10.8293 	EXP 	Created text_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_4', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+11.0281 	EXP 	window1: mouseVisible = True
+11.0292 	EXP 	Created text_15 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_15', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+11.4238 	EXP 	window1: mouseVisible = True
+11.4289 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+11.4290 	EXP 	window1: mouseVisible = True
+11.4299 	EXP 	Created text_16 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_16', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+11.4299 	EXP 	window1: mouseVisible = True
+11.4373 	EXP 	Created text_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_4', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+11.6383 	EXP 	window1: mouseVisible = True
+11.6396 	EXP 	Created text_17 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_17', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+12.0313 	EXP 	window1: mouseVisible = True
+12.0360 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+12.0362 	EXP 	window1: mouseVisible = True
+12.0370 	EXP 	Created text_18 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_18', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+12.0371 	EXP 	window1: mouseVisible = True
+12.0436 	EXP 	Created text_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_4', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+12.2363 	EXP 	window1: mouseVisible = True
+12.2374 	EXP 	Created text_19 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_19', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+0.0152 	EXP 	text: autoDraw = True
+5.9245 	EXP 	Imported train.csv as conditions, 4 conditions, 4 params
+5.9251 	EXP 	Created sequence: random, trialTypes=4, nReps=1, seed=None
+5.9253 	EXP 	New trial (rep=0, index=0): OrderedDict([('Even', 136), ('Ten', 220), ('Odd', 55), ('Negative', -59)])
+5.9309 	EXP 	text: autoDraw = False
+5.9309 	EXP 	text_2: height = 0.05
+5.9309 	EXP 	text_2: height = 0.05
+5.9309 	EXP 	text_2: height = 0.05
+5.9309 	EXP 	text_2: text = 136
+5.9309 	EXP 	text_2: autoDraw = True
+7.9199 	EXP 	New trial (rep=0, index=1): OrderedDict([('Even', 2), ('Ten', 40), ('Odd', 95), ('Negative', -39)])
+7.9252 	EXP 	text_2: autoDraw = False
+7.9252 	EXP 	text_2: height = 0.05
+7.9252 	EXP 	text_2: height = 0.05
+7.9252 	EXP 	text_2: height = 0.05
+7.9252 	EXP 	text_2: text = 2
+7.9252 	EXP 	text_2: autoDraw = True
+9.9199 	EXP 	New trial (rep=0, index=2): OrderedDict([('Even', 32), ('Ten', 20), ('Odd', 7), ('Negative', -44)])
+9.9236 	EXP 	text_2: autoDraw = False
+9.9236 	EXP 	text_2: height = 0.05
+9.9236 	EXP 	text_2: height = 0.05
+9.9236 	EXP 	text_2: height = 0.05
+9.9236 	EXP 	text_2: text = 32
+9.9236 	EXP 	text_2: autoDraw = True
+11.9067 	EXP 	New trial (rep=0, index=3): OrderedDict([('Even', 12), ('Ten', 60), ('Odd', 39), ('Negative', -845)])
+11.9196 	EXP 	text_2: autoDraw = False
+11.9196 	EXP 	text_2: autoDraw = False
+11.9196 	EXP 	text_2: height = 0.05
+11.9196 	EXP 	text_2: height = 0.05
+11.9196 	EXP 	text_2: height = 0.05
+11.9196 	EXP 	text_2: text = 12
+11.9196 	EXP 	text_2: autoDraw = True
+13.9071 	EXP 	text_2: autoDraw = False
+13.9071 	EXP 	text_2: autoDraw = False
+13.9071 	EXP 	text_4: autoDraw = True
+34.4800 	EXP 	Imported test.csv as conditions, 6 conditions, 5 params
+34.4807 	EXP 	Created sequence: random, trialTypes=6, nReps=1, seed=None
+34.4809 	EXP 	New trial (rep=0, index=0): OrderedDict([('Correct', 1), ('Even', '112, 216, 128'), ('Ten', '800, 900, 550'), ('Odd', '253, 173, 257'), ('Negative', '-65, -51, -27')])
+34.4905 	EXP 	text_4: autoDraw = False
+34.4905 	EXP 	text_5: height = 0.05
+34.4905 	EXP 	text_5: height = 0.05
+34.4905 	EXP 	text_5: height = 0.05
+34.4905 	EXP 	text_5: text = '112, 216, 128'
+34.4905 	EXP 	text_5: autoDraw = True
+35.1073 	EXP 	New trial (rep=0, index=1): OrderedDict([('Correct', 0), ('Even', '41, 187, 53'), ('Ten', '272,295,67'), ('Odd', '6, 168, 34'), ('Negative', '64, 21, 165')])
+35.1191 	EXP 	text_5: autoDraw = False
+35.1191 	EXP 	text_5: height = 0.05
+35.1191 	EXP 	text_5: height = 0.05
+35.1191 	EXP 	text_5: height = 0.05
+35.1191 	EXP 	text_5: text = '41, 187, 53'
+35.1191 	EXP 	text_5: autoDraw = True
+35.2366 	EXP 	New trial (rep=0, index=2): OrderedDict([('Correct', 0), ('Even', '313, 9, 33'), ('Ten', '21, 204, 155'), ('Odd', '2, 142, 48'), ('Negative', '264, 198, 211')])
+35.2413 	EXP 	text_5: autoDraw = False
+35.2413 	EXP 	text_5: height = 0.05
+35.2413 	EXP 	text_5: height = 0.05
+35.2413 	EXP 	text_5: height = 0.05
+35.2413 	EXP 	text_5: text = '313, 9, 33'
+35.2413 	EXP 	text_5: autoDraw = True
+35.5368 	EXP 	New trial (rep=0, index=3): OrderedDict([('Correct', 1), ('Even', '122, 40, 18'), ('Ten', '270, 290, 60'), ('Odd', '465, 323, 97'), ('Negative', '-84, -100, -244')])
+35.5415 	EXP 	text_5: autoDraw = False
+35.5415 	EXP 	text_5: height = 0.05
+35.5415 	EXP 	text_5: height = 0.05
+35.5415 	EXP 	text_5: height = 0.05
+35.5415 	EXP 	text_5: text = '122, 40, 18'
+35.5415 	EXP 	text_5: autoDraw = True
+35.7033 	EXP 	New trial (rep=0, index=4): OrderedDict([('Correct', 0), ('Even', '91, 299, 31'), ('Ten', '282, 401, 66'), ('Odd', '134, 72, 188'), ('Negative', '136, 169, 0')])
+35.7081 	EXP 	text_5: autoDraw = False
+35.7081 	EXP 	text_5: height = 0.05
+35.7081 	EXP 	text_5: height = 0.05
+35.7081 	EXP 	text_5: height = 0.05
+35.7081 	EXP 	text_5: text = '91, 299, 31'
+35.7081 	EXP 	text_5: autoDraw = True
+35.8030 	EXP 	New trial (rep=0, index=5): OrderedDict([('Correct', 1), ('Even', '10, 70, 56'), ('Ten', '20, 200, 160'), ('Odd', '97, 93, 3'), ('Negative', '-174, -9, -92')])
+35.8079 	EXP 	text_5: autoDraw = False
+35.8079 	EXP 	text_5: height = 0.05
+35.8079 	EXP 	text_5: height = 0.05
+35.8079 	EXP 	text_5: height = 0.05
+35.8079 	EXP 	text_5: text = '10, 70, 56'
+35.8079 	EXP 	text_5: autoDraw = True
+35.9566 	EXP 	text_5: autoDraw = False
+35.9566 	EXP 	text: autoDraw = True
+36.6561 	EXP 	Imported train.csv as conditions, 4 conditions, 4 params
+36.6565 	EXP 	Created sequence: random, trialTypes=4, nReps=1, seed=None
+36.6566 	EXP 	New trial (rep=0, index=0): OrderedDict([('Even', 32), ('Ten', 20), ('Odd', 7), ('Negative', -44)])
+36.6611 	EXP 	text: autoDraw = False
+36.6611 	EXP 	text_7: height = 0.05
+36.6611 	EXP 	text_7: height = 0.05
+36.6611 	EXP 	text_7: height = 0.05
+36.6611 	EXP 	text_7: text = 20
+36.6611 	EXP 	text_7: autoDraw = True
+38.6539 	EXP 	New trial (rep=0, index=1): OrderedDict([('Even', 2), ('Ten', 40), ('Odd', 95), ('Negative', -39)])
+38.6591 	EXP 	text_7: autoDraw = False
+38.6591 	EXP 	text_7: height = 0.05
+38.6591 	EXP 	text_7: height = 0.05
+38.6591 	EXP 	text_7: height = 0.05
+38.6591 	EXP 	text_7: text = 40
+38.6591 	EXP 	text_7: autoDraw = True
+40.6535 	EXP 	New trial (rep=0, index=2): OrderedDict([('Even', 136), ('Ten', 220), ('Odd', 55), ('Negative', -59)])
+40.6593 	EXP 	text_7: autoDraw = False
+40.6593 	EXP 	text_7: autoDraw = False
+40.6593 	EXP 	text_7: height = 0.05
+40.6593 	EXP 	text_7: height = 0.05
+40.6593 	EXP 	text_7: height = 0.05
+40.6593 	EXP 	text_7: text = 220
+40.6593 	EXP 	text_7: autoDraw = True
+42.6537 	EXP 	New trial (rep=0, index=3): OrderedDict([('Even', 12), ('Ten', 60), ('Odd', 39), ('Negative', -845)])
+42.6593 	EXP 	text_7: autoDraw = False
+42.6593 	EXP 	text_7: height = 0.05
+42.6593 	EXP 	text_7: height = 0.05
+42.6593 	EXP 	text_7: height = 0.05
+42.6593 	EXP 	text_7: text = 60
+42.6593 	EXP 	text_7: autoDraw = True
+44.6580 	EXP 	text_7: autoDraw = False
+44.6580 	EXP 	text_4: autoDraw = True
+48.9569 	EXP 	Imported test.csv as conditions, 6 conditions, 5 params
+48.9574 	EXP 	Created sequence: random, trialTypes=6, nReps=1, seed=None
+48.9576 	EXP 	New trial (rep=0, index=0): OrderedDict([('Correct', 1), ('Even', '122, 40, 18'), ('Ten', '270, 290, 60'), ('Odd', '465, 323, 97'), ('Negative', '-84, -100, -244')])
+48.9626 	EXP 	text_4: autoDraw = False
+48.9626 	EXP 	text_8: height = 0.05
+48.9626 	EXP 	text_8: height = 0.05
+48.9626 	EXP 	text_8: height = 0.05
+48.9626 	EXP 	text_8: text = '270, 290, 60'
+48.9626 	EXP 	text_8: autoDraw = True
+49.6918 	EXP 	New trial (rep=0, index=1): OrderedDict([('Correct', 1), ('Even', '112, 216, 128'), ('Ten', '800, 900, 550'), ('Odd', '253, 173, 257'), ('Negative', '-65, -51, -27')])
+49.7031 	EXP 	text_8: autoDraw = False
+49.7031 	EXP 	text_8: height = 0.05
+49.7031 	EXP 	text_8: height = 0.05
+49.7031 	EXP 	text_8: height = 0.05
+49.7031 	EXP 	text_8: text = '800, 900, 550'
+49.7031 	EXP 	text_8: autoDraw = True
+49.7875 	EXP 	New trial (rep=0, index=2): OrderedDict([('Correct', 1), ('Even', '10, 70, 56'), ('Ten', '20, 200, 160'), ('Odd', '97, 93, 3'), ('Negative', '-174, -9, -92')])
+49.7922 	EXP 	text_8: autoDraw = False
+49.7922 	EXP 	text_8: height = 0.05
+49.7922 	EXP 	text_8: height = 0.05
+49.7922 	EXP 	text_8: height = 0.05
+49.7922 	EXP 	text_8: text = '20, 200, 160'
+49.7922 	EXP 	text_8: autoDraw = True
+49.9699 	EXP 	New trial (rep=0, index=3): OrderedDict([('Correct', 0), ('Even', '313, 9, 33'), ('Ten', '21, 204, 155'), ('Odd', '2, 142, 48'), ('Negative', '264, 198, 211')])
+49.9743 	EXP 	text_8: autoDraw = False
+49.9743 	EXP 	text_8: height = 0.05
+49.9743 	EXP 	text_8: height = 0.05
+49.9743 	EXP 	text_8: height = 0.05
+49.9743 	EXP 	text_8: text = '21, 204, 155'
+49.9743 	EXP 	text_8: autoDraw = True
+50.0865 	EXP 	New trial (rep=0, index=4): OrderedDict([('Correct', 0), ('Even', '41, 187, 53'), ('Ten', '272,295,67'), ('Odd', '6, 168, 34'), ('Negative', '64, 21, 165')])
+50.0898 	EXP 	text_8: autoDraw = False
+50.0898 	EXP 	text_8: height = 0.05
+50.0898 	EXP 	text_8: height = 0.05
+50.0898 	EXP 	text_8: height = 0.05
+50.0898 	EXP 	text_8: text = '272,295,67'
+50.0898 	EXP 	text_8: autoDraw = True
+50.2070 	EXP 	New trial (rep=0, index=5): OrderedDict([('Correct', 0), ('Even', '91, 299, 31'), ('Ten', '282, 401, 66'), ('Odd', '134, 72, 188'), ('Negative', '136, 169, 0')])
+50.2194 	EXP 	text_8: autoDraw = False
+50.2194 	EXP 	text_8: height = 0.05
+50.2194 	EXP 	text_8: height = 0.05
+50.2194 	EXP 	text_8: height = 0.05
+50.2194 	EXP 	text_8: text = '282, 401, 66'
+50.2194 	EXP 	text_8: autoDraw = True
+50.2892 	EXP 	text_8: autoDraw = False
+50.2892 	EXP 	text: autoDraw = True
+51.0396 	EXP 	Imported train.csv as conditions, 4 conditions, 4 params
+51.0399 	EXP 	Created sequence: random, trialTypes=4, nReps=1, seed=None
+51.0401 	EXP 	New trial (rep=0, index=0): OrderedDict([('Even', 32), ('Ten', 20), ('Odd', 7), ('Negative', -44)])
+51.0441 	EXP 	text: autoDraw = False
+51.0441 	EXP 	text_3: height = 0.05
+51.0441 	EXP 	text_3: height = 0.05
+51.0441 	EXP 	text_3: height = 0.05
+51.0441 	EXP 	text_3: text = 7
+51.0441 	EXP 	text_3: autoDraw = True
+53.0364 	EXP 	New trial (rep=0, index=1): OrderedDict([('Even', 2), ('Ten', 40), ('Odd', 95), ('Negative', -39)])
+53.0419 	EXP 	text_3: autoDraw = False
+53.0419 	EXP 	text_3: autoDraw = False
+53.0419 	EXP 	text_3: height = 0.05
+53.0419 	EXP 	text_3: height = 0.05
+53.0419 	EXP 	text_3: height = 0.05
+53.0419 	EXP 	text_3: text = 95
+53.0419 	EXP 	text_3: autoDraw = True
+55.0254 	EXP 	New trial (rep=0, index=2): OrderedDict([('Even', 136), ('Ten', 220), ('Odd', 55), ('Negative', -59)])
+55.0364 	EXP 	text_3: autoDraw = False
+55.0364 	EXP 	text_3: autoDraw = False
+55.0364 	EXP 	text_3: height = 0.05
+55.0364 	EXP 	text_3: height = 0.05
+55.0364 	EXP 	text_3: height = 0.05
+55.0364 	EXP 	text_3: text = 55
+55.0364 	EXP 	text_3: autoDraw = True
+57.0202 	EXP 	New trial (rep=0, index=3): OrderedDict([('Even', 12), ('Ten', 60), ('Odd', 39), ('Negative', -845)])
+57.0262 	EXP 	text_3: autoDraw = False
+57.0262 	EXP 	text_3: autoDraw = False
+57.0262 	EXP 	text_3: height = 0.05
+57.0262 	EXP 	text_3: height = 0.05
+57.0262 	EXP 	text_3: height = 0.05
+57.0262 	EXP 	text_3: text = 39
+57.0262 	EXP 	text_3: autoDraw = True
+59.0245 	EXP 	text_3: autoDraw = False
+59.0245 	EXP 	text_3: autoDraw = False
+59.0245 	EXP 	text_4: autoDraw = True
+59.6054 	EXP 	Imported test.csv as conditions, 6 conditions, 5 params
+59.6057 	EXP 	Created sequence: random, trialTypes=6, nReps=1, seed=None
+59.6058 	EXP 	New trial (rep=0, index=0): OrderedDict([('Correct', 0), ('Even', '41, 187, 53'), ('Ten', '272,295,67'), ('Odd', '6, 168, 34'), ('Negative', '64, 21, 165')])
+59.6102 	EXP 	text_4: autoDraw = False
+59.6102 	EXP 	text_9: height = 0.05
+59.6102 	EXP 	text_9: height = 0.05
+59.6102 	EXP 	text_9: height = 0.05
+59.6102 	EXP 	text_9: text = '6, 168, 34'
+59.6102 	EXP 	text_9: autoDraw = True
+60.3029 	EXP 	New trial (rep=0, index=1): OrderedDict([('Correct', 0), ('Even', '91, 299, 31'), ('Ten', '282, 401, 66'), ('Odd', '134, 72, 188'), ('Negative', '136, 169, 0')])
+60.3068 	EXP 	text_9: autoDraw = False
+60.3068 	EXP 	text_9: height = 0.05
+60.3068 	EXP 	text_9: height = 0.05
+60.3068 	EXP 	text_9: height = 0.05
+60.3068 	EXP 	text_9: text = '134, 72, 188'
+60.3068 	EXP 	text_9: autoDraw = True
+60.4198 	EXP 	New trial (rep=0, index=2): OrderedDict([('Correct', 1), ('Even', '10, 70, 56'), ('Ten', '20, 200, 160'), ('Odd', '97, 93, 3'), ('Negative', '-174, -9, -92')])
+60.4239 	EXP 	text_9: autoDraw = False
+60.4239 	EXP 	text_9: height = 0.05
+60.4239 	EXP 	text_9: height = 0.05
+60.4239 	EXP 	text_9: height = 0.05
+60.4239 	EXP 	text_9: text = '97, 93, 3'
+60.4239 	EXP 	text_9: autoDraw = True
+60.5695 	EXP 	New trial (rep=0, index=3): OrderedDict([('Correct', 1), ('Even', '122, 40, 18'), ('Ten', '270, 290, 60'), ('Odd', '465, 323, 97'), ('Negative', '-84, -100, -244')])
+60.5736 	EXP 	text_9: autoDraw = False
+60.5736 	EXP 	text_9: height = 0.05
+60.5736 	EXP 	text_9: height = 0.05
+60.5736 	EXP 	text_9: height = 0.05
+60.5736 	EXP 	text_9: text = '465, 323, 97'
+60.5736 	EXP 	text_9: autoDraw = True
+60.6531 	EXP 	New trial (rep=0, index=4): OrderedDict([('Correct', 0), ('Even', '313, 9, 33'), ('Ten', '21, 204, 155'), ('Odd', '2, 142, 48'), ('Negative', '264, 198, 211')])
+60.6572 	EXP 	text_9: autoDraw = False
+60.6572 	EXP 	text_9: height = 0.05
+60.6572 	EXP 	text_9: height = 0.05
+60.6572 	EXP 	text_9: height = 0.05
+60.6572 	EXP 	text_9: text = '2, 142, 48'
+60.6572 	EXP 	text_9: autoDraw = True
+60.8031 	EXP 	New trial (rep=0, index=5): OrderedDict([('Correct', 1), ('Even', '112, 216, 128'), ('Ten', '800, 900, 550'), ('Odd', '253, 173, 257'), ('Negative', '-65, -51, -27')])
+60.8076 	EXP 	text_9: autoDraw = False
+60.8076 	EXP 	text_9: height = 0.05
+60.8076 	EXP 	text_9: height = 0.05
+60.8076 	EXP 	text_9: height = 0.05
+60.8076 	EXP 	text_9: text = '253, 173, 257'
+60.8076 	EXP 	text_9: autoDraw = True
+60.8902 	EXP 	text_9: autoDraw = False
+60.8902 	EXP 	text: autoDraw = True
+61.5568 	EXP 	Imported train.csv as conditions, 4 conditions, 4 params
+61.5573 	EXP 	Created sequence: random, trialTypes=4, nReps=1, seed=None
+61.5575 	EXP 	New trial (rep=0, index=0): OrderedDict([('Even', 2), ('Ten', 40), ('Odd', 95), ('Negative', -39)])
+61.5639 	EXP 	text: autoDraw = False
+61.5639 	EXP 	text_10: height = 0.05
+61.5639 	EXP 	text_10: height = 0.05
+61.5639 	EXP 	text_10: height = 0.05
+61.5639 	EXP 	text_10: text = -39
+61.5639 	EXP 	text_10: autoDraw = True
+63.5539 	EXP 	New trial (rep=0, index=1): OrderedDict([('Even', 32), ('Ten', 20), ('Odd', 7), ('Negative', -44)])
+63.5595 	EXP 	text_10: autoDraw = False
+63.5595 	EXP 	text_10: autoDraw = False
+63.5595 	EXP 	text_10: height = 0.05
+63.5595 	EXP 	text_10: height = 0.05
+63.5595 	EXP 	text_10: height = 0.05
+63.5595 	EXP 	text_10: text = -44
+63.5595 	EXP 	text_10: autoDraw = True
+65.5535 	EXP 	New trial (rep=0, index=2): OrderedDict([('Even', 136), ('Ten', 220), ('Odd', 55), ('Negative', -59)])
+65.5591 	EXP 	text_10: autoDraw = False
+65.5591 	EXP 	text_10: autoDraw = False
+65.5591 	EXP 	text_10: height = 0.05
+65.5591 	EXP 	text_10: height = 0.05
+65.5591 	EXP 	text_10: height = 0.05
+65.5591 	EXP 	text_10: text = -59
+65.5591 	EXP 	text_10: autoDraw = True
+67.5538 	EXP 	New trial (rep=0, index=3): OrderedDict([('Even', 12), ('Ten', 60), ('Odd', 39), ('Negative', -845)])
+67.5597 	EXP 	text_10: autoDraw = False
+67.5597 	EXP 	text_10: autoDraw = False
+67.5597 	EXP 	text_10: height = 0.05
+67.5597 	EXP 	text_10: height = 0.05
+67.5597 	EXP 	text_10: height = 0.05
+67.5597 	EXP 	text_10: text = -845
+67.5597 	EXP 	text_10: autoDraw = True
+69.5582 	EXP 	text_10: autoDraw = False
+69.5582 	EXP 	text_10: autoDraw = False
+69.5582 	EXP 	text_4: autoDraw = True
+70.2402 	EXP 	Imported test.csv as conditions, 6 conditions, 5 params
+70.2406 	EXP 	Created sequence: random, trialTypes=6, nReps=1, seed=None
+70.2408 	EXP 	New trial (rep=0, index=0): OrderedDict([('Correct', 0), ('Even', '313, 9, 33'), ('Ten', '21, 204, 155'), ('Odd', '2, 142, 48'), ('Negative', '264, 198, 211')])
+70.2456 	EXP 	text_4: autoDraw = False
+70.2456 	EXP 	text_11: height = 0.05
+70.2456 	EXP 	text_11: height = 0.05
+70.2456 	EXP 	text_11: height = 0.05
+70.2456 	EXP 	text_11: text = '264, 198, 211'
+70.2456 	EXP 	text_11: autoDraw = True
+70.9036 	EXP 	New trial (rep=0, index=1): OrderedDict([('Correct', 0), ('Even', '41, 187, 53'), ('Ten', '272,295,67'), ('Odd', '6, 168, 34'), ('Negative', '64, 21, 165')])
+70.9082 	EXP 	text_11: autoDraw = False
+70.9082 	EXP 	text_11: height = 0.05
+70.9082 	EXP 	text_11: height = 0.05
+70.9082 	EXP 	text_11: height = 0.05
+70.9082 	EXP 	text_11: text = '64, 21, 165'
+70.9082 	EXP 	text_11: autoDraw = True
+71.8537 	EXP 	New trial (rep=0, index=2): OrderedDict([('Correct', 0), ('Even', '91, 299, 31'), ('Ten', '282, 401, 66'), ('Odd', '134, 72, 188'), ('Negative', '136, 169, 0')])
+71.8588 	EXP 	text_11: autoDraw = False
+71.8588 	EXP 	text_11: height = 0.05
+71.8588 	EXP 	text_11: height = 0.05
+71.8588 	EXP 	text_11: height = 0.05
+71.8588 	EXP 	text_11: text = '136, 169, 0'
+71.8588 	EXP 	text_11: autoDraw = True
+72.6070 	EXP 	New trial (rep=0, index=3): OrderedDict([('Correct', 1), ('Even', '122, 40, 18'), ('Ten', '270, 290, 60'), ('Odd', '465, 323, 97'), ('Negative', '-84, -100, -244')])
+72.6194 	EXP 	text_11: autoDraw = False
+72.6194 	EXP 	text_11: height = 0.05
+72.6194 	EXP 	text_11: height = 0.05
+72.6194 	EXP 	text_11: height = 0.05
+72.6194 	EXP 	text_11: text = '-84, -100, -244'
+72.6194 	EXP 	text_11: autoDraw = True
+73.5207 	EXP 	New trial (rep=0, index=4): OrderedDict([('Correct', 1), ('Even', '10, 70, 56'), ('Ten', '20, 200, 160'), ('Odd', '97, 93, 3'), ('Negative', '-174, -9, -92')])
+73.5276 	EXP 	text_11: autoDraw = False
+73.5276 	EXP 	text_11: height = 0.05
+73.5276 	EXP 	text_11: height = 0.05
+73.5276 	EXP 	text_11: height = 0.05
+73.5276 	EXP 	text_11: text = '-174, -9, -92'
+73.5276 	EXP 	text_11: autoDraw = True
+74.0699 	EXP 	New trial (rep=0, index=5): OrderedDict([('Correct', 1), ('Even', '112, 216, 128'), ('Ten', '800, 900, 550'), ('Odd', '253, 173, 257'), ('Negative', '-65, -51, -27')])
+74.0746 	EXP 	text_11: autoDraw = False
+74.0746 	EXP 	text_11: height = 0.05
+74.0746 	EXP 	text_11: height = 0.05
+74.0746 	EXP 	text_11: height = 0.05
+74.0746 	EXP 	text_11: text = '-65, -51, -27'
+74.0746 	EXP 	text_11: autoDraw = True
+74.4909 	EXP 	text_11: autoDraw = False
+74.4909 	EXP 	text: autoDraw = True
+75.2561 	EXP 	Imported train.csv as conditions, 6 conditions, 4 params
+75.2566 	EXP 	Created sequence: random, trialTypes=6, nReps=1, seed=None
+75.2568 	EXP 	New trial (rep=0, index=0): OrderedDict([('Even', 4), ('Ten', 80), ('Odd', 33), ('Negative', -4)])
+75.2611 	EXP 	text: autoDraw = False
+75.2611 	EXP 	text_12: height = 0.05
+75.2611 	EXP 	text_12: height = 0.05
+75.2611 	EXP 	text_12: height = 0.05
+75.2611 	EXP 	text_12: text = 4
+75.2611 	EXP 	text_12: autoDraw = True
+77.2533 	EXP 	New trial (rep=0, index=1): OrderedDict([('Even', 6), ('Ten', 20), ('Odd', 21), ('Negative', -28)])
+77.2585 	EXP 	text_12: autoDraw = False
+77.2585 	EXP 	text_12: height = 0.05
+77.2585 	EXP 	text_12: height = 0.05
+77.2585 	EXP 	text_12: height = 0.05
+77.2585 	EXP 	text_12: text = 6
+77.2585 	EXP 	text_12: autoDraw = True
+79.2415 	EXP 	New trial (rep=0, index=2): OrderedDict([('Even', 40), ('Ten', 30), ('Odd', 91), ('Negative', -3)])
+79.2530 	EXP 	text_12: autoDraw = False
+79.2530 	EXP 	text_12: autoDraw = False
+79.2530 	EXP 	text_12: height = 0.05
+79.2530 	EXP 	text_12: height = 0.05
+79.2530 	EXP 	text_12: height = 0.05
+79.2530 	EXP 	text_12: text = 40
+79.2530 	EXP 	text_12: autoDraw = True
+81.2372 	EXP 	New trial (rep=0, index=3): OrderedDict([('Even', 98), ('Ten', 170), ('Odd', 77), ('Negative', -100)])
+81.2421 	EXP 	text_12: autoDraw = False
+81.2421 	EXP 	text_12: autoDraw = False
+81.2421 	EXP 	text_12: height = 0.05
+81.2421 	EXP 	text_12: height = 0.05
+81.2421 	EXP 	text_12: height = 0.05
+81.2421 	EXP 	text_12: text = 98
+81.2421 	EXP 	text_12: autoDraw = True
+83.2370 	EXP 	New trial (rep=0, index=4): OrderedDict([('Even', 8), ('Ten', 640), ('Odd', 3), ('Negative', -62)])
+83.2435 	EXP 	text_12: autoDraw = False
+83.2435 	EXP 	text_12: autoDraw = False
+83.2435 	EXP 	text_12: height = 0.05
+83.2435 	EXP 	text_12: height = 0.05
+83.2435 	EXP 	text_12: height = 0.05
+83.2435 	EXP 	text_12: text = 8
+83.2435 	EXP 	text_12: autoDraw = True
+85.2372 	EXP 	New trial (rep=0, index=5): OrderedDict([('Even', 12), ('Ten', 260), ('Odd', 51), ('Negative', -111)])
+85.2434 	EXP 	text_12: autoDraw = False
+85.2434 	EXP 	text_12: autoDraw = False
+85.2434 	EXP 	text_12: height = 0.05
+85.2434 	EXP 	text_12: height = 0.05
+85.2434 	EXP 	text_12: height = 0.05
+85.2434 	EXP 	text_12: text = 12
+85.2434 	EXP 	text_12: autoDraw = True
+87.2408 	EXP 	text_12: autoDraw = False
+87.2408 	EXP 	text_12: autoDraw = False
+87.2408 	EXP 	text_4: autoDraw = True
+89.1905 	EXP 	Imported test.csv as conditions, 6 conditions, 5 params
+89.1910 	EXP 	Created sequence: random, trialTypes=6, nReps=1, seed=None
+89.1912 	EXP 	New trial (rep=0, index=0): OrderedDict([('Correct', 1), ('Even', '42, 88, 20'), ('Ten', '180, 60, 50'), ('Odd', '463, 515, 119'), ('Negative', '-30, -61, -122')])
+89.1961 	EXP 	text_4: autoDraw = False
+89.1961 	EXP 	text_13: height = 0.05
+89.1961 	EXP 	text_13: height = 0.05
+89.1961 	EXP 	text_13: height = 0.05
+89.1961 	EXP 	text_13: text = '42, 88, 20'
+89.1961 	EXP 	text_13: autoDraw = True
+92.2412 	EXP 	New trial (rep=0, index=1): OrderedDict([('Correct', 1), ('Even', '222, 50, 90'), ('Ten', '280, 20, 170'), ('Odd', '583, 261, 513'), ('Negative', '-160, -50, -266')])
+92.2530 	EXP 	text_13: autoDraw = False
+92.2530 	EXP 	text_13: height = 0.05
+92.2530 	EXP 	text_13: height = 0.05
+92.2530 	EXP 	text_13: height = 0.05
+92.2530 	EXP 	text_13: text = '222, 50, 90'
+92.2530 	EXP 	text_13: autoDraw = True
+92.6241 	EXP 	New trial (rep=0, index=2): OrderedDict([('Correct', 0), ('Even', '287,53,49'), ('Ten', '71, 24, 603'), ('Odd', '86, 150, 140'), ('Negative', '248, 9, 139')])
+92.6359 	EXP 	text_13: autoDraw = False
+92.6359 	EXP 	text_13: height = 0.05
+92.6359 	EXP 	text_13: height = 0.05
+92.6359 	EXP 	text_13: height = 0.05
+92.6359 	EXP 	text_13: text = '287,53,49'
+92.6359 	EXP 	text_13: autoDraw = True
+92.8705 	EXP 	New trial (rep=0, index=3): OrderedDict([('Correct', 0), ('Even', '221,63,111'), ('Ten', '22, 44, 509'), ('Odd', '162, 70, 118'), ('Negative', '219, 288, 39')])
+92.8752 	EXP 	text_13: autoDraw = False
+92.8752 	EXP 	text_13: height = 0.05
+92.8752 	EXP 	text_13: height = 0.05
+92.8752 	EXP 	text_13: height = 0.05
+92.8752 	EXP 	text_13: text = '221,63,111'
+92.8752 	EXP 	text_13: autoDraw = True
+93.0533 	EXP 	New trial (rep=0, index=4): OrderedDict([('Correct', 1), ('Even', '400, 76, 14'), ('Ten', '120, 270, 20'), ('Odd', '25, 87, 119'), ('Negative', '-16, -40, -27')])
+93.0587 	EXP 	text_13: autoDraw = False
+93.0587 	EXP 	text_13: height = 0.05
+93.0587 	EXP 	text_13: height = 0.05
+93.0587 	EXP 	text_13: height = 0.05
+93.0587 	EXP 	text_13: text = '400, 76, 14'
+93.0587 	EXP 	text_13: autoDraw = True
+93.2543 	EXP 	New trial (rep=0, index=5): OrderedDict([('Correct', 0), ('Even', '189, 77, 95'), ('Ten', '66, 138, 284'), ('Odd', '154, 166, 92'), ('Negative', '261, 67, 45')])
+93.2597 	EXP 	text_13: autoDraw = False
+93.2597 	EXP 	text_13: height = 0.05
+93.2597 	EXP 	text_13: height = 0.05
+93.2597 	EXP 	text_13: height = 0.05
+93.2597 	EXP 	text_13: text = '189, 77, 95'
+93.2597 	EXP 	text_13: autoDraw = True
+93.4527 	EXP 	text_13: autoDraw = False
+93.4527 	EXP 	text: autoDraw = True
+94.2572 	EXP 	Imported train.csv as conditions, 6 conditions, 4 params
+94.2577 	EXP 	Created sequence: random, trialTypes=6, nReps=1, seed=None
+94.2579 	EXP 	New trial (rep=0, index=0): OrderedDict([('Even', 6), ('Ten', 20), ('Odd', 21), ('Negative', -28)])
+94.2628 	EXP 	text: autoDraw = False
+94.2628 	EXP 	text_14: height = 0.05
+94.2628 	EXP 	text_14: height = 0.05
+94.2628 	EXP 	text_14: height = 0.05
+94.2628 	EXP 	text_14: text = 20
+94.2628 	EXP 	text_14: autoDraw = True
+96.2528 	EXP 	New trial (rep=0, index=1): OrderedDict([('Even', 12), ('Ten', 260), ('Odd', 51), ('Negative', -111)])
+96.2578 	EXP 	text_14: autoDraw = False
+96.2578 	EXP 	text_14: autoDraw = False
+96.2578 	EXP 	text_14: height = 0.05
+96.2578 	EXP 	text_14: height = 0.05
+96.2578 	EXP 	text_14: height = 0.05
+96.2578 	EXP 	text_14: text = 260
+96.2578 	EXP 	text_14: autoDraw = True
+98.2410 	EXP 	New trial (rep=0, index=2): OrderedDict([('Even', 40), ('Ten', 30), ('Odd', 91), ('Negative', -3)])
+98.2526 	EXP 	text_14: autoDraw = False
+98.2526 	EXP 	text_14: autoDraw = False
+98.2526 	EXP 	text_14: height = 0.05
+98.2526 	EXP 	text_14: height = 0.05
+98.2526 	EXP 	text_14: height = 0.05
+98.2526 	EXP 	text_14: text = 30
+98.2526 	EXP 	text_14: autoDraw = True
+100.2362 	EXP 	New trial (rep=0, index=3): OrderedDict([('Even', 8), ('Ten', 640), ('Odd', 3), ('Negative', -62)])
+100.2408 	EXP 	text_14: autoDraw = False
+100.2408 	EXP 	text_14: autoDraw = False
+100.2408 	EXP 	text_14: height = 0.05
+100.2408 	EXP 	text_14: height = 0.05
+100.2408 	EXP 	text_14: height = 0.05
+100.2408 	EXP 	text_14: text = 640
+100.2408 	EXP 	text_14: autoDraw = True
+102.2244 	EXP 	New trial (rep=0, index=4): OrderedDict([('Even', 4), ('Ten', 80), ('Odd', 33), ('Negative', -4)])
+102.2362 	EXP 	text_14: autoDraw = False
+102.2362 	EXP 	text_14: autoDraw = False
+102.2362 	EXP 	text_14: height = 0.05
+102.2362 	EXP 	text_14: height = 0.05
+102.2362 	EXP 	text_14: height = 0.05
+102.2362 	EXP 	text_14: text = 80
+102.2401 	EXP 	text_14: autoDraw = True
+104.2242 	EXP 	New trial (rep=0, index=5): OrderedDict([('Even', 98), ('Ten', 170), ('Odd', 77), ('Negative', -100)])
+104.2368 	EXP 	text_14: autoDraw = False
+104.2368 	EXP 	text_14: autoDraw = False
+104.2368 	EXP 	text_14: height = 0.05
+104.2368 	EXP 	text_14: height = 0.05
+104.2368 	EXP 	text_14: height = 0.05
+104.2368 	EXP 	text_14: text = 170
+104.2408 	EXP 	text_14: autoDraw = True
+106.2363 	EXP 	text_14: autoDraw = False
+106.2363 	EXP 	text_14: autoDraw = False
+106.2407 	EXP 	text_4: autoDraw = True
+107.1782 	EXP 	Imported test.csv as conditions, 6 conditions, 5 params
+107.1786 	EXP 	Created sequence: random, trialTypes=6, nReps=1, seed=None
+107.1787 	EXP 	New trial (rep=0, index=0): OrderedDict([('Correct', 1), ('Even', '42, 88, 20'), ('Ten', '180, 60, 50'), ('Odd', '463, 515, 119'), ('Negative', '-30, -61, -122')])
+107.1856 	EXP 	text_4: autoDraw = False
+107.1856 	EXP 	text_15: height = 0.05
+107.1856 	EXP 	text_15: height = 0.05
+107.1856 	EXP 	text_15: height = 0.05
+107.1856 	EXP 	text_15: text = '180, 60, 50'
+107.1856 	EXP 	text_15: autoDraw = True
+108.0026 	EXP 	New trial (rep=0, index=1): OrderedDict([('Correct', 0), ('Even', '287,53,49'), ('Ten', '71, 24, 603'), ('Odd', '86, 150, 140'), ('Negative', '248, 9, 139')])
+108.0069 	EXP 	text_15: autoDraw = False
+108.0069 	EXP 	text_15: height = 0.05
+108.0069 	EXP 	text_15: height = 0.05
+108.0069 	EXP 	text_15: height = 0.05
+108.0069 	EXP 	text_15: text = '71, 24, 603'
+108.0069 	EXP 	text_15: autoDraw = True
+108.4366 	EXP 	New trial (rep=0, index=2): OrderedDict([('Correct', 0), ('Even', '221,63,111'), ('Ten', '22, 44, 509'), ('Odd', '162, 70, 118'), ('Negative', '219, 288, 39')])
+108.4411 	EXP 	text_15: autoDraw = False
+108.4411 	EXP 	text_15: height = 0.05
+108.4411 	EXP 	text_15: height = 0.05
+108.4411 	EXP 	text_15: height = 0.05
+108.4411 	EXP 	text_15: text = '22, 44, 509'
+108.4411 	EXP 	text_15: autoDraw = True
+109.1038 	EXP 	New trial (rep=0, index=3): OrderedDict([('Correct', 0), ('Even', '189, 77, 95'), ('Ten', '66, 138, 284'), ('Odd', '154, 166, 92'), ('Negative', '261, 67, 45')])
+109.1089 	EXP 	text_15: autoDraw = False
+109.1089 	EXP 	text_15: height = 0.05
+109.1089 	EXP 	text_15: height = 0.05
+109.1089 	EXP 	text_15: height = 0.05
+109.1089 	EXP 	text_15: text = '66, 138, 284'
+109.1089 	EXP 	text_15: autoDraw = True
+109.5538 	EXP 	New trial (rep=0, index=4): OrderedDict([('Correct', 1), ('Even', '222, 50, 90'), ('Ten', '280, 20, 170'), ('Odd', '583, 261, 513'), ('Negative', '-160, -50, -266')])
+109.5600 	EXP 	text_15: autoDraw = False
+109.5600 	EXP 	text_15: height = 0.05
+109.5600 	EXP 	text_15: height = 0.05
+109.5600 	EXP 	text_15: height = 0.05
+109.5600 	EXP 	text_15: text = '280, 20, 170'
+109.5600 	EXP 	text_15: autoDraw = True
+109.9363 	EXP 	New trial (rep=0, index=5): OrderedDict([('Correct', 1), ('Even', '400, 76, 14'), ('Ten', '120, 270, 20'), ('Odd', '25, 87, 119'), ('Negative', '-16, -40, -27')])
+109.9414 	EXP 	text_15: autoDraw = False
+109.9414 	EXP 	text_15: height = 0.05
+109.9414 	EXP 	text_15: height = 0.05
+109.9414 	EXP 	text_15: height = 0.05
+109.9414 	EXP 	text_15: text = '120, 270, 20'
+109.9414 	EXP 	text_15: autoDraw = True
+110.4077 	EXP 	text_15: autoDraw = False
+110.4077 	EXP 	text: autoDraw = True
+111.2226 	EXP 	Imported train.csv as conditions, 6 conditions, 4 params
+111.2229 	EXP 	Created sequence: random, trialTypes=6, nReps=1, seed=None
+111.2230 	EXP 	New trial (rep=0, index=0): OrderedDict([('Even', 98), ('Ten', 170), ('Odd', 77), ('Negative', -100)])
+111.2281 	EXP 	text: autoDraw = False
+111.2281 	EXP 	text_16: height = 0.05
+111.2281 	EXP 	text_16: height = 0.05
+111.2281 	EXP 	text_16: height = 0.05
+111.2281 	EXP 	text_16: text = 77
+111.2281 	EXP 	text_16: autoDraw = True
+113.2195 	EXP 	New trial (rep=0, index=1): OrderedDict([('Even', 8), ('Ten', 640), ('Odd', 3), ('Negative', -62)])
+113.2240 	EXP 	text_16: autoDraw = False
+113.2240 	EXP 	text_16: autoDraw = False
+113.2240 	EXP 	text_16: height = 0.05
+113.2240 	EXP 	text_16: height = 0.05
+113.2240 	EXP 	text_16: height = 0.05
+113.2240 	EXP 	text_16: text = 3
+113.2240 	EXP 	text_16: autoDraw = True
+115.2199 	EXP 	New trial (rep=0, index=2): OrderedDict([('Even', 12), ('Ten', 260), ('Odd', 51), ('Negative', -111)])
+115.2243 	EXP 	text_16: autoDraw = False
+115.2243 	EXP 	text_16: autoDraw = False
+115.2243 	EXP 	text_16: height = 0.05
+115.2243 	EXP 	text_16: height = 0.05
+115.2243 	EXP 	text_16: height = 0.05
+115.2243 	EXP 	text_16: text = 51
+115.2243 	EXP 	text_16: autoDraw = True
+117.2198 	EXP 	New trial (rep=0, index=3): OrderedDict([('Even', 6), ('Ten', 20), ('Odd', 21), ('Negative', -28)])
+117.2245 	EXP 	text_16: autoDraw = False
+117.2245 	EXP 	text_16: autoDraw = False
+117.2245 	EXP 	text_16: height = 0.05
+117.2245 	EXP 	text_16: height = 0.05
+117.2245 	EXP 	text_16: height = 0.05
+117.2245 	EXP 	text_16: text = 21
+117.2245 	EXP 	text_16: autoDraw = True
+119.2079 	EXP 	New trial (rep=0, index=4): OrderedDict([('Even', 4), ('Ten', 80), ('Odd', 33), ('Negative', -4)])
+119.2187 	EXP 	text_16: autoDraw = False
+119.2187 	EXP 	text_16: autoDraw = False
+119.2187 	EXP 	text_16: height = 0.05
+119.2187 	EXP 	text_16: height = 0.05
+119.2187 	EXP 	text_16: height = 0.05
+119.2187 	EXP 	text_16: text = 33
+119.2187 	EXP 	text_16: autoDraw = True
+121.2037 	EXP 	New trial (rep=0, index=5): OrderedDict([('Even', 40), ('Ten', 30), ('Odd', 91), ('Negative', -3)])
+121.2086 	EXP 	text_16: autoDraw = False
+121.2086 	EXP 	text_16: autoDraw = False
+121.2086 	EXP 	text_16: height = 0.05
+121.2086 	EXP 	text_16: height = 0.05
+121.2086 	EXP 	text_16: height = 0.05
+121.2086 	EXP 	text_16: text = 91
+121.2086 	EXP 	text_16: autoDraw = True
+123.2071 	EXP 	text_16: autoDraw = False
+123.2071 	EXP 	text_16: autoDraw = False
+123.2071 	EXP 	text_4: autoDraw = True
+124.0645 	EXP 	Imported test.csv as conditions, 6 conditions, 5 params
+124.0648 	EXP 	Created sequence: random, trialTypes=6, nReps=1, seed=None
+124.0649 	EXP 	New trial (rep=0, index=0): OrderedDict([('Correct', 0), ('Even', '221,63,111'), ('Ten', '22, 44, 509'), ('Odd', '162, 70, 118'), ('Negative', '219, 288, 39')])
+124.0713 	WARNING 	t of last frame was 68.54ms (=1/14)
+124.0713 	EXP 	text_4: autoDraw = False
+124.0713 	EXP 	text_17: height = 0.05
+124.0713 	EXP 	text_17: height = 0.05
+124.0713 	EXP 	text_17: height = 0.05
+124.0713 	EXP 	text_17: text = '162, 70, 118'
+124.0713 	EXP 	text_17: autoDraw = True
+125.1800 	WARNING 	t of last frame was 23.99ms (=1/41)
+125.6707 	EXP 	New trial (rep=0, index=1): OrderedDict([('Correct', 1), ('Even', '222, 50, 90'), ('Ten', '280, 20, 170'), ('Odd', '583, 261, 513'), ('Negative', '-160, -50, -266')])
+125.6763 	EXP 	text_17: autoDraw = False
+125.6763 	EXP 	text_17: height = 0.05
+125.6763 	EXP 	text_17: height = 0.05
+125.6763 	EXP 	text_17: height = 0.05
+125.6763 	EXP 	text_17: text = '583, 261, 513'
+125.6763 	EXP 	text_17: autoDraw = True
+126.9869 	EXP 	New trial (rep=0, index=2): OrderedDict([('Correct', 1), ('Even', '400, 76, 14'), ('Ten', '120, 270, 20'), ('Odd', '25, 87, 119'), ('Negative', '-16, -40, -27')])
+126.9925 	EXP 	text_17: autoDraw = False
+126.9925 	EXP 	text_17: height = 0.05
+126.9925 	EXP 	text_17: height = 0.05
+126.9925 	EXP 	text_17: height = 0.05
+126.9925 	EXP 	text_17: text = '25, 87, 119'
+126.9925 	EXP 	text_17: autoDraw = True
+128.1036 	EXP 	New trial (rep=0, index=3): OrderedDict([('Correct', 0), ('Even', '189, 77, 95'), ('Ten', '66, 138, 284'), ('Odd', '154, 166, 92'), ('Negative', '261, 67, 45')])
+128.1095 	EXP 	text_17: autoDraw = False
+128.1095 	EXP 	text_17: height = 0.05
+128.1095 	EXP 	text_17: height = 0.05
+128.1095 	EXP 	text_17: height = 0.05
+128.1095 	EXP 	text_17: text = '154, 166, 92'
+128.1095 	EXP 	text_17: autoDraw = True
+129.3369 	EXP 	New trial (rep=0, index=4): OrderedDict([('Correct', 1), ('Even', '42, 88, 20'), ('Ten', '180, 60, 50'), ('Odd', '463, 515, 119'), ('Negative', '-30, -61, -122')])
+129.3435 	EXP 	text_17: autoDraw = False
+129.3435 	EXP 	text_17: height = 0.05
+129.3435 	EXP 	text_17: height = 0.05
+129.3435 	EXP 	text_17: height = 0.05
+129.3435 	EXP 	text_17: text = '463, 515, 119'
+129.3435 	EXP 	text_17: autoDraw = True
+130.7081 	EXP 	New trial (rep=0, index=5): OrderedDict([('Correct', 0), ('Even', '287,53,49'), ('Ten', '71, 24, 603'), ('Odd', '86, 150, 140'), ('Negative', '248, 9, 139')])
+130.7199 	EXP 	text_17: autoDraw = False
+130.7199 	EXP 	text_17: height = 0.05
+130.7199 	EXP 	text_17: height = 0.05
+130.7199 	EXP 	text_17: height = 0.05
+130.7199 	EXP 	text_17: text = '86, 150, 140'
+130.7199 	EXP 	text_17: autoDraw = True
+131.6695 	EXP 	text_17: autoDraw = False
+131.6695 	EXP 	text: autoDraw = True
+132.5912 	EXP 	Imported train.csv as conditions, 6 conditions, 4 params
+132.5917 	EXP 	Created sequence: random, trialTypes=6, nReps=1, seed=None
+132.5919 	EXP 	New trial (rep=0, index=0): OrderedDict([('Even', 8), ('Ten', 640), ('Odd', 3), ('Negative', -62)])
+132.5969 	EXP 	text: autoDraw = False
+132.5969 	EXP 	text_18: height = 0.05
+132.5969 	EXP 	text_18: height = 0.05
+132.5969 	EXP 	text_18: height = 0.05
+132.5969 	EXP 	text_18: text = -62
+132.5969 	EXP 	text_18: autoDraw = True
+134.1952 	WARNING 	t of last frame was 22.22ms (=1/44)
+134.5864 	EXP 	New trial (rep=0, index=1): OrderedDict([('Even', 6), ('Ten', 20), ('Odd', 21), ('Negative', -28)])
+134.5915 	EXP 	text_18: autoDraw = False
+134.5915 	EXP 	text_18: autoDraw = False
+134.5915 	EXP 	text_18: height = 0.05
+134.5915 	EXP 	text_18: height = 0.05
+134.5915 	EXP 	text_18: height = 0.05
+134.5915 	EXP 	text_18: text = -28
+134.5915 	EXP 	text_18: autoDraw = True
+136.5862 	EXP 	New trial (rep=0, index=2): OrderedDict([('Even', 98), ('Ten', 170), ('Odd', 77), ('Negative', -100)])
+136.5908 	EXP 	text_18: autoDraw = False
+136.5908 	EXP 	text_18: autoDraw = False
+136.5908 	EXP 	text_18: height = 0.05
+136.5908 	EXP 	text_18: height = 0.05
+136.5908 	EXP 	text_18: height = 0.05
+136.5908 	EXP 	text_18: text = -100
+136.5908 	EXP 	text_18: autoDraw = True
+138.5738 	EXP 	New trial (rep=0, index=3): OrderedDict([('Even', 40), ('Ten', 30), ('Odd', 91), ('Negative', -3)])
+138.5864 	EXP 	text_18: autoDraw = False
+138.5864 	EXP 	text_18: autoDraw = False
+138.5864 	EXP 	text_18: height = 0.05
+138.5864 	EXP 	text_18: height = 0.05
+138.5864 	EXP 	text_18: height = 0.05
+138.5864 	EXP 	text_18: text = -3
+138.5864 	EXP 	text_18: autoDraw = True
+140.5726 	EXP 	New trial (rep=0, index=4): OrderedDict([('Even', 12), ('Ten', 260), ('Odd', 51), ('Negative', -111)])
+140.5854 	EXP 	text_18: autoDraw = False
+140.5854 	EXP 	text_18: autoDraw = False
+140.5854 	EXP 	text_18: height = 0.05
+140.5854 	EXP 	text_18: height = 0.05
+140.5854 	EXP 	text_18: height = 0.05
+140.5854 	EXP 	text_18: text = -111
+140.5854 	EXP 	text_18: autoDraw = True
+142.5703 	EXP 	New trial (rep=0, index=5): OrderedDict([('Even', 4), ('Ten', 80), ('Odd', 33), ('Negative', -4)])
+142.5747 	EXP 	text_18: autoDraw = False
+142.5747 	EXP 	text_18: autoDraw = False
+142.5747 	EXP 	text_18: height = 0.05
+142.5747 	EXP 	text_18: height = 0.05
+142.5747 	EXP 	text_18: height = 0.05
+142.5747 	EXP 	text_18: text = -4
+142.5747 	EXP 	text_18: autoDraw = True
+144.5738 	EXP 	text_18: autoDraw = False
+144.5738 	EXP 	text_18: autoDraw = False
+144.5738 	EXP 	text_4: autoDraw = True
+145.7749 	EXP 	Imported test.csv as conditions, 6 conditions, 5 params
+145.7753 	EXP 	Created sequence: random, trialTypes=6, nReps=1, seed=None
+145.7754 	EXP 	New trial (rep=0, index=0): OrderedDict([('Correct', 0), ('Even', '189, 77, 95'), ('Ten', '66, 138, 284'), ('Odd', '154, 166, 92'), ('Negative', '261, 67, 45')])
+145.7805 	EXP 	text_4: autoDraw = False
+145.7805 	EXP 	text_19: height = 0.05
+145.7805 	EXP 	text_19: height = 0.05
+145.7805 	EXP 	text_19: height = 0.05
+145.7805 	EXP 	text_19: text = '261, 67, 45'
+145.7805 	EXP 	text_19: autoDraw = True
+147.9038 	EXP 	New trial (rep=0, index=1): OrderedDict([('Correct', 0), ('Even', '287,53,49'), ('Ten', '71, 24, 603'), ('Odd', '86, 150, 140'), ('Negative', '248, 9, 139')])
+147.9088 	EXP 	text_19: autoDraw = False
+147.9088 	EXP 	text_19: height = 0.05
+147.9088 	EXP 	text_19: height = 0.05
+147.9088 	EXP 	text_19: height = 0.05
+147.9088 	EXP 	text_19: text = '248, 9, 139'
+147.9088 	EXP 	text_19: autoDraw = True
+149.6035 	EXP 	New trial (rep=0, index=2): OrderedDict([('Correct', 1), ('Even', '400, 76, 14'), ('Ten', '120, 270, 20'), ('Odd', '25, 87, 119'), ('Negative', '-16, -40, -27')])
+149.6085 	EXP 	text_19: autoDraw = False
+149.6085 	EXP 	text_19: height = 0.05
+149.6085 	EXP 	text_19: height = 0.05
+149.6085 	EXP 	text_19: height = 0.05
+149.6085 	EXP 	text_19: text = '-16, -40, -27'
+149.6085 	EXP 	text_19: autoDraw = True
+150.1079 	EXP 	New trial (rep=0, index=3): OrderedDict([('Correct', 0), ('Even', '221,63,111'), ('Ten', '22, 44, 509'), ('Odd', '162, 70, 118'), ('Negative', '219, 288, 39')])
+150.1191 	EXP 	text_19: autoDraw = False
+150.1191 	EXP 	text_19: height = 0.05
+150.1191 	EXP 	text_19: height = 0.05
+150.1191 	EXP 	text_19: height = 0.05
+150.1191 	EXP 	text_19: text = '219, 288, 39'
+150.1191 	EXP 	text_19: autoDraw = True
+150.6737 	EXP 	New trial (rep=0, index=4): OrderedDict([('Correct', 1), ('Even', '42, 88, 20'), ('Ten', '180, 60, 50'), ('Odd', '463, 515, 119'), ('Negative', '-30, -61, -122')])
+150.6858 	EXP 	text_19: autoDraw = False
+150.6858 	EXP 	text_19: height = 0.05
+150.6858 	EXP 	text_19: height = 0.05
+150.6858 	EXP 	text_19: height = 0.05
+150.6858 	EXP 	text_19: text = '-30, -61, -122'
+150.6858 	EXP 	text_19: autoDraw = True
+151.3075 	EXP 	New trial (rep=0, index=5): OrderedDict([('Correct', 1), ('Even', '222, 50, 90'), ('Ten', '280, 20, 170'), ('Odd', '583, 261, 513'), ('Negative', '-160, -50, -266')])
+151.3190 	EXP 	text_19: autoDraw = False
+151.3190 	EXP 	text_19: height = 0.05
+151.3190 	EXP 	text_19: height = 0.05
+151.3190 	EXP 	text_19: height = 0.05
+151.3190 	EXP 	text_19: text = '-160, -50, -266'
+151.3190 	EXP 	text_19: autoDraw = True
+152.2222 	EXP 	text_19: autoDraw = False
+152.2223 	EXP 	main: status = STOPPED
+152.2545 	WARNING 	t of last frame was 32.25ms (=1/31)
+152.2589 	EXP 	window1: mouseVisible = True
